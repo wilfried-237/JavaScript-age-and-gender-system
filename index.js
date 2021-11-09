@@ -17,6 +17,17 @@
         num1("Wilfried","200");
         */
 
+
+         /* Printing a function with 3 parameters
+
+         function myFunction(name, age, country){
+
+            document.write("I'm named "+name+" a "+age+" years old <b><i>Developer</i></b> from "+ country);
+        }
+
+        myFunction("<b>Wilfried</b>",19,"<b>Cameroon.</b>")
+        */
+
         /*
 
         A system that take marks as input and povides total, average and percentage as output
@@ -51,17 +62,9 @@
 
 
         results();
+
         */
-
-         /* Printing a function with 3 parameters
-
-         function myFunction(name, age, country){
-
-            document.write("I'm named "+name+" a "+age+" years old <b><i>Developer</i></b> from "+ country);
-        }
-
-        myFunction("<b>Wilfried</b>",19,"<b>Cameroon.</b>")
-        */
+        
          
         var age=19;
         var gender="female";
