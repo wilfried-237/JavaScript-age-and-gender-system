@@ -52,11 +52,21 @@
 
         results();
         */
-         
-         var age=19;
-         var gender="female";
 
-         if(age<18 && gender=="male"){
+         /* Printing a function with 3 parameters
+
+         function myFunction(name, age, country){
+
+            document.write("I'm named "+name+" a "+age+" years old <b><i>Developer</i></b> from "+ country);
+        }
+
+        myFunction("<b>Wilfried</b>",19,"<b>Cameroon.</b>")
+        */
+         
+        var age=19;
+        var gender="female";
+
+        if(age<18 && gender=="male"){
                  document.write("I am an adolescent Male");
         }
         else if(age>=18 && gender=="male"){
@@ -76,3 +86,5 @@
         else{
             document.write("unkwown name or gender");
         }
+
+      
