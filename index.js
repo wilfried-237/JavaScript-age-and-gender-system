@@ -65,7 +65,7 @@
 
         */
         
-         
+        /* 
         var age=19;
         var gender="female";
 
@@ -90,4 +90,25 @@
             document.write("unkwown name or gender");
         }
 
-      
+        */
+
+        var car=3;
+
+        switch(car){
+            case 1: document.write("i have " +car+  " cars");
+            break;
+
+            case 2: document.write("i have " +car+  " cars");
+            break;
+
+            case 3: document.write("i have " +car+  " cars");
+            break;
+
+            case 4: document.write("i have " +car+  " cars");
+            break;
+
+            default: document.write("This is a default case");
+            break;
+        }
+
+    
