@@ -123,6 +123,7 @@
 
         */
 
+        /*
         var x=1;
 
         while(x<10){
@@ -130,3 +131,21 @@
             
             x++;
         }
+
+        */
+        var x=1;
+        do{
+            document.write("This is a do while loop </br>");
+            x++;
+        }
+        while(x<100)
+
+
+
+
+
+
+
+
+
+
