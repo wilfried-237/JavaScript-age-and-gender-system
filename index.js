@@ -133,6 +133,8 @@
         }
 
         */
+
+        /*
         var x=1;
         do{
             document.write("This is a do while loop </br>");
@@ -140,7 +142,9 @@
         }
         while(x<100)
 
+        */
 
+        
 
 
 
