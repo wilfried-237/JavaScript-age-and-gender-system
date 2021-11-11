@@ -144,12 +144,14 @@
 
         */
 
-        
 
 
+        var array=["wilfried","Mike","Michel","Stecy"]
 
 
+        document.write(array);
 
 
+        array.push()
 
 
