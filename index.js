@@ -92,6 +92,8 @@
 
         */
 
+
+        /*
         var car=3;
 
         switch(car){
@@ -111,4 +113,20 @@
             break;
         }
 
-    
+        */
+        /*
+        var x;
+
+        for(x=0;x<10;x++){
+            document.write("This is a for loop </br>");
+        }
+
+        */
+
+        var x=1;
+
+        while(x<10){
+            document.write("This is a while loop </br>"); 
+            
+            x++;
+        }
