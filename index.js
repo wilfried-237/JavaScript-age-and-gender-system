@@ -144,7 +144,7 @@
 
         */
 
-
+        /*
 
         var array=["wilfried","Mike","Michel","Stecy"]
 
@@ -155,3 +155,27 @@
         array.push()
 
 
+        var ul = getElementById('ul-list');
+
+
+        ul.innerHtml = '<li>Michel</li><li>Michel</li><li>Michel</li>'
+
+        */
+
+        var img= document.getElementById('img');
+
+    function left(){
+        var img= document.getElementById('img');
+
+        img.src='images/2.jpg'
+    }
+    function middle(){
+        var img= document.getElementById('img');
+
+        img.src='images/3.jpg'
+    }
+    function right(){
+        var img= document.getElementById('img');
+
+        img.src='images/4.jpg'
+    }
